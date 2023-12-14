@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\Week4LoopAndRandom\Week4LoopAndRandom\bin\Debug\net8.0\Week4LoopAndRandom.exe
+C:\Users\Admin\source\repos\Week4LoopAndRandom\Week4LoopAndRandom\bin\Debug\net8.0\Week4LoopAndRandom.deps.json
+C:\Users\Admin\source\repos\Week4LoopAndRandom\Week4LoopAndRandom\bin\Debug\net8.0\Week4LoopAndRandom.runtimeconfig.json
+C:\Users\Admin\source\repos\Week4LoopAndRandom\Week4LoopAndRandom\bin\Debug\net8.0\Week4LoopAndRandom.dll
+C:\Users\Admin\source\repos\Week4LoopAndRandom\Week4LoopAndRandom\bin\Debug\net8.0\Week4LoopAndRandom.pdb
+C:\Users\Admin\source\repos\Week4LoopAndRandom\Week4LoopAndRandom\obj\Debug\net8.0\Week4LoopAndRandom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Week4LoopAndRandom\Week4LoopAndRandom\obj\Debug\net8.0\Week4LoopAndRandom.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Week4LoopAndRandom\Week4LoopAndRandom\obj\Debug\net8.0\Week4LoopAndRandom.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Week4LoopAndRandom\Week4LoopAndRandom\obj\Debug\net8.0\Week4LoopAndRandom.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Week4LoopAndRandom\Week4LoopAndRandom\obj\Debug\net8.0\Week4LoopAndRandom.dll
+C:\Users\Admin\source\repos\Week4LoopAndRandom\Week4LoopAndRandom\obj\Debug\net8.0\refint\Week4LoopAndRandom.dll
+C:\Users\Admin\source\repos\Week4LoopAndRandom\Week4LoopAndRandom\obj\Debug\net8.0\Week4LoopAndRandom.pdb
+C:\Users\Admin\source\repos\Week4LoopAndRandom\Week4LoopAndRandom\obj\Debug\net8.0\Week4LoopAndRandom.genruntimeconfig.cache
+C:\Users\Admin\source\repos\Week4LoopAndRandom\Week4LoopAndRandom\obj\Debug\net8.0\ref\Week4LoopAndRandom.dll
